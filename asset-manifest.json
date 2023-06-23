@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/para-react-app/static/css/main.4ac94dca.css",
+    "main.js": "/para-react-app/static/js/main.d718e5f0.js",
+    "index.html": "/para-react-app/index.html",
+    "main.4ac94dca.css.map": "/para-react-app/static/css/main.4ac94dca.css.map",
+    "main.d718e5f0.js.map": "/para-react-app/static/js/main.d718e5f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac94dca.css",
+    "static/js/main.d718e5f0.js"
+  ]
+}
